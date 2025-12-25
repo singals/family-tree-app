@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Tree - Mermaid</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs"></script>
+</head>
+<body>
+<h1>👨‍👩‍👧 Family Tree</h1>
+<div id="mermaid-container" class="mermaid">Loading family tree...</div>
+
+<!-- Modal for person details -->
+<div id="person-modal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2></h2>
+        <div class="details"></div>
+        <div class="relations"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

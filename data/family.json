@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Shri Shankar Lal",
+    "dob": "1930-05-10",
+    "isAlive": false,
+    "dateOfDeath": "2000-08-15",
+    "picture": "/images/hukam.jpg",
+    "spouse": "Shanti Devi"
+  },
+  {
+    "name": "Shri Asha Ram",
+    "dob": "1930-05-10",
+    "isAlive": false,
+    "dateOfDeath": "2000-08-15",
+    "picture": "/images/hukam.jpg",
+    "spouse": "Shanti Devi"
+  },
+  {
+    "name": "Shri Maman Chand",
+    "dob": "1930-05-10",
+    "isAlive": false,
+    "dateOfDeath": "2000-08-15",
+    "picture": "/images/hukam.jpg",
+    "spouse": "Shanti Devi",
+    "children": [
+      {
+        "name": "Shri Karm Chand",
+        "dob": "1930-05-10",
+        "isAlive": false,
+        "dateOfDeath": "2000-08-15",
+        "picture": "/images/hukam.jpg",
+        "spouse": "Shanti Devi",
+        "children": [
+          {
+            "name": "Shri Dhoom Singh",
+            "dob": "1930-05-10",
+            "isAlive": false,
+            "dateOfDeath": "2000-08-15",
+            "picture": "/images/hukam.jpg",
+            "spouse": "Shanti Devi",
+            "children": [
+              {
+                "name": "Shri Jamna Das",
+                "dob": "1930-05-10",
+                "isAlive": false,
+                "dateOfDeath": "2000-08-15",
+                "picture": "/images/hukam.jpg",
+                "spouse": "Shanti Devi",
+                "children": [
+                  {
+                    "name": "Shri Govardhan Das",
+                    "dob": "1930-05-10",
+                    "isAlive": false,
+                    "dateOfDeath": "2000-08-15",
+                    "picture": "/images/hukam.jpg",
+                    "spouse": "Shanti Devi",
+                    "children": [
+                      {
+                        "name": "Shri Udairam",
+                        "dob": "1930-05-10",
+                        "isAlive": false,
+                        "dateOfDeath": "2000-08-15",
+                        "picture": "/images/hukam.jpg",
+                        "spouse": "Shanti Devi",
+                        "children": [
+                          {
+                            "name": "Shri Babu Ram",
+                            "dob": "1930-05-10",
+                            "isAlive": false,
+                            "dateOfDeath": "2000-08-15",
+                            "picture": "/images/hukam.jpg",
+                            "spouse": "Shanti Devi",
+                            "children": [
+                              {
+                                "name": "Shri Hukam Chand",
+                                "dob": "1930-05-10",
+                                "isAlive": false,
+                                "dateOfDeath": "2000-08-15",
+                                "picture": "/images/hukam.jpg",
+                                "spouse": "Shanti Devi",
+                                "children": [
+                                  {
+                                    "name": "Shri Yogesh Kumar Singal",
+                                    "dob": "1930-05-10",
+                                    "isAlive": false,
+                                    "dateOfDeath": "2000-08-15",
+                                    "picture": "/images/hukam.jpg",
+                                    "spouse": "Shanti Devi",
+                                    "children": [
+                                      {
+                                        "name": "Shri Shashank Singal",
+                                        "dob": "1930-05-10",
+                                        "isAlive": false,
+                                        "dateOfDeath": "2000-08-15",
+                                        "picture": "/images/hukam.jpg",
+                                        "spouse": "Shanti Devi",
+                                        "children": [
+                                          {
+                                            "name": "Shri Harit Singal",
+                                            "dob": "1930-05-10",
+                                            "isAlive": false,
+                                            "dateOfDeath": "2000-08-15",
+                                            "picture": "/images/hukam.jpg"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
